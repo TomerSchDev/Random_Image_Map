@@ -1,4 +1,4 @@
-# Random_Image_Map
+# Wave-Function-Collapse_ImageGenerator
 
 A simple Java project that generates a map-like image based on the Wave Function Collapse (WFC) algorithm.
 
